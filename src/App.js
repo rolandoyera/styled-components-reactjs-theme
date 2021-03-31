@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import { GlobalStyle, H1, Container } from "./GlobalStyle";
+import { PrimaryButton, SecondaryButton } from './Button'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Container>
+      <GlobalStyle />
+      <H1>Hello World</H1>
+      <PrimaryButton>Clickety Click</PrimaryButton>
+      <SecondaryButton>Just Click</SecondaryButton>
+    </Container>
+
+  )
 }
 
 export default App;
