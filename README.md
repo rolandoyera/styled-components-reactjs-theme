@@ -5,7 +5,8 @@
 
 This page uses styled-components and React.js and was designed to help others become familiar with theming and dark-mode toggling. Enjoy!
 
-### `yarn test`
+```yarn add or npm install```
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
