@@ -7,11 +7,19 @@ This page uses styled-components and React.js and was designed to help others be
 
 ## Install
 
-```yarn add or npm install```
+```
+
+yarn add or npm install
+
+```
 
 ## Launch
 
-```yarn start or npm start```
+```
+
+yarn start or npm start
+
+```
 
 ## Enjoy
 
