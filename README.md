@@ -1,10 +1,9 @@
 # Simple Starter Themed with Styled-Components
 
 
-![starter](https://github.com/rolandoyera/styled-components-reactjs-examples/blob/main/public/monica.jpg) to view it in the browser.
+![starter](https://github.com/rolandoyera/styled-components-reactjs-examples/blob/main/public/monica.jpg)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This page uses styled-components and React.js and was designed to help others become familiar with theming and dark-mode toggling. Enjoy!
 
 ### `yarn test`
 
