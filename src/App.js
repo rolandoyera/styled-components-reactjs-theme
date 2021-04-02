@@ -1,16 +1,15 @@
-import { GlobalStyle, H1, Container } from "./GlobalStyle";
-import { PrimaryButton, SecondaryButton } from './Button'
+import React from 'react';
+import Layout from './Components/Layout'
+
 
 function App() {
-  return (
-    <Container>
-      <GlobalStyle />
-      <H1>Hello World</H1>
-      <PrimaryButton>Clickety Click</PrimaryButton>
-      <SecondaryButton>Just Click</SecondaryButton>
-    </Container>
 
-  )
+  return (
+    <Layout>
+
+    </Layout>
+
+  );
 }
 
 export default App;
