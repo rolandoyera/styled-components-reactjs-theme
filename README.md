@@ -5,7 +5,7 @@
 
 This page uses styled-components and React.js and was designed to help others become familiar with theming and dark-mode toggling. Enjoy!
 
-## Installation
+## Install
 
 ```yarn add or npm install```
 
