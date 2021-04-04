@@ -7,6 +7,8 @@ This page uses styled-components and React.js and was designed to help others be
 
 Learn about [styled-components theming here](https://javascriptarticles.com/how-to-use-themes-and-dark-mode-with-styled-components-and-reactjs/)
 
+See the [site live here](https://developher.netlify.app/)
+
 ## Install
 
 ```
