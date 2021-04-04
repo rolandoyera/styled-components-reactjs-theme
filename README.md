@@ -5,9 +5,12 @@
 
 This page uses styled-components and React.js and was designed to help others become familiar with theming and dark-mode toggling. Enjoy!
 
+
 Learn about [styled-components theming here](https://javascriptarticles.com/how-to-use-themes-and-dark-mode-with-styled-components-and-reactjs/)
 
+
 See the [site live here](https://developher.netlify.app/)
+
 
 ## Install
 
