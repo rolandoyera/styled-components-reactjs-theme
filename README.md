@@ -24,3 +24,5 @@ yarn start or npm start
 ## Enjoy
 
 🤩
+
+Learn about [styled-components theming here](https://javascriptarticles.com/how-to-use-themes-and-dark-mode-with-styled-components-and-reactjs/)
