@@ -1,4 +1,4 @@
-# Simple Starter Themed with Styled-Components
+# Themed with Styled-Components & React.js
 
 
 ![starter](https://github.com/rolandoyera/styled-components-reactjs-theme/blob/main/public/monica.jpg)
