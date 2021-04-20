@@ -16,6 +16,7 @@ function getInitialTheme() {
 
 const Layout = ({ children }) => {
   const [theme, setTheme] = useState(getInitialTheme);
+  console.log(theme)
   useEffect(
     () => { storage.setItem('theme', JSON.stringify(theme)) }, [theme]
   )
