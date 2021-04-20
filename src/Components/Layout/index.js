@@ -17,9 +17,7 @@ function getInitialTheme() {
 const Layout = ({ children }) => {
   const [theme, setTheme] = useState(getInitialTheme);
   console.log(theme)
-  useEffect(
-    () => { storage.setItem('theme', JSON.stringify(theme)) }, [theme]
-  )
+  useEffect(() => { storage.setItem('theme', JSON.stringify(theme)) }, [theme])
   const toggleTheme = () => { theme === "light" ? setTheme("dark") : setTheme("light") }
   const icon = theme === "light" ? <FiMoon size={26} /> : <FiSun size={26} />
 
