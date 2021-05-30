@@ -1,15 +1,12 @@
-import React from 'react';
-import Layout from './Components/Layout'
-
+import React from 'react'
+import { Layout, HomeIntro } from './Components'
 
 function App() {
-
-  return (
-    <Layout>
-
-    </Layout>
-
-  );
+	return (
+		<Layout>
+			<HomeIntro />
+		</Layout>
+	)
 }
 
-export default App;
+export default App
